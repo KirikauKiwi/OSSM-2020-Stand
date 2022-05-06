@@ -5,9 +5,13 @@ The files are shared as is, please feel free to modify the design to suit, they 
 
 1: Extrusion cut list.
 -1 x 460mm 2020 Extrusion for the top arm.
+
 -1 x 415mm 2020 Extrusion for the middle arm.
--1 x 410mm 2020 Extrusion for the lower armm.
+
+-1 x 410mm 2020 Extrusion for the lower arm.
+
 -2 x 300-400mm 2020 Extrusion for the legs of the stand.
+
 -These lengths are just suggestions and will give you a stand with an overall folded length of 500mm with the centres between the hinges being 460mm.
 
 2: Fasterners
