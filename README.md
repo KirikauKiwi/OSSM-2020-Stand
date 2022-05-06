@@ -19,32 +19,32 @@ These lengths are just suggestions and will give you a stand with an overall fol
 
 M5 Flange Button
 
-2 x 45mm length for cam lock levers.
+ - 2 x 45mm length for cam lock levers.
 
-2 x 40mm length for hinge pivot.
+ - 2 x 40mm length for hinge pivot.
 
-2 x 25mm length for attaching the legs.
+ - 2 x 25mm length for attaching the legs.
 
-20 x 10mm length for attaching the printed parts to the 2020 extrusion.
+ - 20 x 10mm length for attaching the printed parts to the 2020 extrusion.
 
 M5 Cap screws
 
-2 x 40mm length to attach the middle part of the hinge to the end tapped hole in the 2020 extrusion.
+ - 2 x 40mm length to attach the middle part of the hinge to the end tapped hole in the 2020 extrusion.
 
-4 x 10mm length to attache the rubber feet.
+ - 4 x 10mm length to attache the rubber feet.
 
 3: Washers
 
-4 x M5 x 25mm to be used with the cam lock levers.
+ - 4 x M5 x 25mm to be used with the cam lock levers.
 
-2 x M5 x 15mm to be used with an M5 nylock nut at the hinge pivot.
+ - 2 x M5 x 15mm to be used with an M5 nylock nut at the hinge pivot.
 
 4: Nuts
 
-20 x M5 T Nuts for 2020 extrusion.
+ - 20 x M5 T Nuts for 2020 extrusion.
 
-2 x M5 Nylock nuts for the hinge pivot bolts.
+ - 2 x M5 Nylock nuts for the hinge pivot bolts.
 
 5: Cam lock levers.
 
-2 x M5 Cam lock levers with female thread.
+ - 2 x M5 Cam lock levers with female thread.
