@@ -5,7 +5,7 @@ The files are shared as is, please feel free to modify the design to suit, they 
 
 1: Extrusion cut list.
 
-1 x 460mm 2020 Extrusion for the top arm.
+ - 1 x 460mm 2020 Extrusion for the top arm.
 
 1 x 415mm 2020 Extrusion for the middle arm.
 
