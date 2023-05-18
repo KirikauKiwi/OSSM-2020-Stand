@@ -48,3 +48,6 @@ M5 Cap screws
 5: Cam lock levers.
 
  - 2 x M5 Cam lock levers with female thread.
+  
+![photo_2022-07-14_09-45-25](https://github.com/NightmareSyndrome/OSSM-2020-Stand/assets/131713378/aa8ac0ef-eabe-4c34-b6ef-1b3e51ec50ae)
+Photo above shows an assembled mount with incomplete OSSM.
